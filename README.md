@@ -21,7 +21,7 @@ You will be working closely with their Data Scientists to provide a stable platf
 
 # The challenges: 
 
--	Extend our architectural runway with new technologies, patterns and practices in the context of applications, microservices, data engineering, integrations and analytics/modelling.
+-	Extend the architectural runway with new technologies, patterns and practices in the context of applications, microservices, data engineering, integrations and analytics/modelling.
 -	Consider innovative approaches to digitise systems and processes using machine learning.
 -	Correctly scaling infrastructure to deal with complex financial calculations on the fly
 -	The ability to quickly assimilate new knowledge around the financial domain 
