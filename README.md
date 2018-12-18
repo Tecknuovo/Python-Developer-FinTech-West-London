@@ -1,4 +1,3 @@
-# Mid-Level---Python-Developer-Fintech-1848
 
 # Python Developer / Fintech / West London 
 
