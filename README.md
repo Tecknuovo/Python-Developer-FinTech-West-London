@@ -7,7 +7,7 @@ Python / HTML / ES6 / Typescript / Angular/ Docker / Kubernetes / AWS / Fintech
 
 # The company: 
 
-Small, agile, FinTech using bleeding edge technologies to improve the traditional brokerage model and also providing SaaS based analytics platform to buy side firms using cloud native technologies. Based a modern office space with all of the amenities a five-minute walk from Baker St. 
+Small, agile, FinTech using bleeding edge technologies to improve the traditional brokerage model and also providing SaaS based analytics platform to buy side firms using cloud native technologies. Based in a modern office space with all of the amenities a five-minute walk from Baker St. 
 
 # The environment/Culture: 
 
